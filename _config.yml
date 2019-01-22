@@ -1,7 +1,10 @@
 theme: jekyll-theme-hacker
-show_downloads: "true"
-google_analytics: [Your Google Analytics tracking ID]
-
+title: Hacker theme
+description: Hacker is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
+title: [The title of your site]
 github:
   zip_url: http://example.com/download.zip
   another_url: another value
